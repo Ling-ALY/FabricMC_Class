@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "lscm",
+  "version": "${version}",
+
+  "name": "Lscm",
+  "description": "This is a description.",
+  "authors": [
+    "LingSan_CanMeng"
+  ],
+  "contact": {
+    "sources": "https://github.com/Ling-ALY/FabricMC_Class"
+  },
+
+  "license": "MIT",
+  "icon": "assets/lscm/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.LingSan_CanMeng.Main"
+    ]
+  },
+  "mixins": [
+    "lscm.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
