@@ -1,4 +1,5 @@
 {
   "item.lscm.amber" : "Amber",
-  "block.lscm.amberblock" : "AmberBlock"
+  "block.lscm.amberblock" : "AmberBlock",
+  "itemGroup.lscm.lscm" : "lscm"
 }

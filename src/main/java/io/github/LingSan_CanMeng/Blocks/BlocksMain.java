@@ -1,5 +1,6 @@
 package io.github.LingSan_CanMeng.Blocks;
 
+import io.github.LingSan_CanMeng.ItemGroups.ItemGroupsMain;
 import io.github.LingSan_CanMeng.Main;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
@@ -20,7 +21,7 @@ public class BlocksMain {
             new Identifier(Main.MOD_ID, "amberblock"),
             amberBlock);*/
 
-    public static final Block amberBlock = registerBlock("amberblock", new Block(FabricBlockSettings.of(Material.METAL)), ItemGroup.MISC);
+    public static final Block amberBlock = registerBlock("amberblock", new Block(FabricBlockSettings.of(Material.METAL)), ItemGroupsMain.lscm);
 
     public static Block registerBlock(String blockName,Block block, ItemGroup itemGroup){
         Registry.register(Registry.ITEM,
