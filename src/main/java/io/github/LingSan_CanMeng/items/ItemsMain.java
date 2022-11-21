@@ -9,12 +9,10 @@ import net.minecraft.util.registry.Registry;
 
 public class ItemsMain {
 
-    /**
-    public static final Item amber = Registry.register(Registry.ITEM,
+    /*public static final Item amber = Registry.register(Registry.ITEM,
             new Identifier(Main.MOD_ID, "amber"),
             new Item(new FabricItemSettings().group(ItemGroup.MISC).maxCount(16)
-            ));
-     **/
+            ));*/
 
     public static final Item amber = registerItem("amber",
             new Item(new FabricItemSettings().group(ItemGroup.MISC).maxCount(16)));
