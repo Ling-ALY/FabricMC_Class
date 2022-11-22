@@ -21,7 +21,9 @@ public class BlocksMain {
             new Identifier(Main.MOD_ID, "amberblock"),
             amberBlock);*/
 
-    public static final Block amberBlock = registerBlock("amberblock", new Block(FabricBlockSettings.of(Material.METAL)), ItemGroupsMain.lscm);
+    public static final Block amberBlock = registerBlock("amberblock",
+            new Block(FabricBlockSettings.of(Material.METAL)),
+            ItemGroupsMain.lscm);
 
     public static Block registerBlock(String blockName,Block block, ItemGroup itemGroup){
         Registry.register(Registry.ITEM,
