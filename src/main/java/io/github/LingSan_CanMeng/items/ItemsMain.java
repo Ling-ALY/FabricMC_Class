@@ -10,7 +10,9 @@ import net.minecraft.util.registry.Registry;
 public class ItemsMain {
 
     public static final Item amber = registerItem("amber",
-            new Item(new FabricItemSettings().group(ItemGroupsMain.lscm).maxCount(16)));
+            new Item(new FabricItemSettings().group(ItemGroupsMain.lscm)));
+    public static final Item rawAmber = registerItem("raw_amber",
+            new Item(new FabricItemSettings().group(ItemGroupsMain.lscm)));
 
     private static Item registerItem(String itemName, Item item){
         return Registry.register(Registry.ITEM,

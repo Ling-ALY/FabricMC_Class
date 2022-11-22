@@ -1,7 +1,9 @@
 {
   "item.lscm.amber" : "琥珀",
+  "item.lscm.raw_amber" : "粗琥珀",
 
   "block.lscm.amber_block" : "琥珀块",
   "block.lscm.amber_ore" : "琥珀矿石",
-  "block.lscm.deepslate_amber_ore" : "深层琥珀矿石"
+  "block.lscm.deepslate_amber_ore" : "深层琥珀矿石",
+  "itemGroup.lscm.lscm": "lscm"
 }

@@ -1,5 +1,6 @@
 {
   "item.lscm.amber" : "Amber",
+  "item.lscm.raw_amber" : "Raw Amber",
 
   "block.lscm.amber_block" : "Amber Block",
   "block.lscm.amber_ore" : "Amber Ore",
