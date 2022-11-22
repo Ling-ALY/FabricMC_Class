@@ -1,11 +1,16 @@
 {
-  "item.lscm.zinc_ingot" : "Zinc Ingot",
-  "item.lscm.raw_zinc" : "Raw Zinc",
-  "item.lscm.zinc_nugget" : "Zinc Nugget",
+  "item.lscm.zinc_ingot": "Zinc Ingot",
+  "item.lscm.raw_zinc": "Raw Zinc",
+  "item.lscm.zinc_nugget": "Zinc Nugget",
+  "item.lscm.gobber2_foo": "Gobber2 Foo",
 
-  "block.lscm.zinc_block" : "Zinc Block",
-  "block.lscm.zinc_ore" : "Zinc Ore",
-  "block.lscm.deepslate_zinc_ore" : "Deepslate Zinc Ore",
+  "block.lscm.zinc_block": "Zinc Block",
+  "block.lscm.zinc_ore": "Zinc Ore",
+  "block.lscm.deepslate_zinc_ore": "Deepslate Zinc Ore",
 
-  "itemGroup.lscm.lscm" : "lscm"
+  "itemGroup.lscm.lscm": "lscm",
+
+  "tooltip.gobber2_foo": "A great fuel",
+  "tooltip.not_shift.gobber2_foo": "Press shift to see more info.",
+  "tooltip.shift.gobber2_foo": "Can burn 64000 ticks(3200 seconds)."
 }
