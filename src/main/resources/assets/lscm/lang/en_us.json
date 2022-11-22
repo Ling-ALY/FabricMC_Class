@@ -1,5 +1,9 @@
 {
   "item.lscm.amber" : "Amber",
-  "block.lscm.amber_block" : "AmberBlock",
+
+  "block.lscm.amber_block" : "Amber Block",
+  "block.lscm.amber_ore" : "Amber Ore",
+  "block.lscm.deepslate_amber_ore" : "Deepslate Amber Ore",
+
   "itemGroup.lscm.lscm" : "lscm"
 }

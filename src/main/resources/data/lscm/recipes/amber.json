@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item":"lscm:amber_block"
+    }
+  ],
+  "result": {
+    "item": "lscm:amber",
+    "count": 9
+  }
+}

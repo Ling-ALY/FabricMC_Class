@@ -16,6 +16,12 @@ public class BlocksMain {
     public static final Block amberBlock = registerBlock("amber_block",
             new Block(FabricBlockSettings.of(Material.METAL)),
             ItemGroupsMain.lscm);
+    public static final Block amberOre = registerBlock("amber_ore",
+            new Block(FabricBlockSettings.of(Material.METAL)),
+            ItemGroupsMain.lscm);
+    public static final Block DeepslateAmberOre = registerBlock("deepslate_amber_ore",
+            new Block(FabricBlockSettings.of(Material.METAL)),
+            ItemGroupsMain.lscm);
 
     public static Block registerBlock(String blockName,Block block, ItemGroup itemGroup){
         Registry.register(Registry.ITEM,
