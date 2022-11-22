@@ -13,15 +13,7 @@ import net.minecraft.util.registry.Registry;
 
 public class BlocksMain {
 
-    /*private static final Block amberBlock = new Block(FabricBlockSettings.of(Material.METAL));
-    public static final Item amberBlockItem = Registry.register(Registry.ITEM,
-            new Identifier(Main.MOD_ID, "amberblock"),
-            new BlockItem(amberBlock, new FabricItemSettings().group(ItemGroup.MISC)));
-    public static final Block amberBlockBlock = Registry.register(Registry.BLOCK,
-            new Identifier(Main.MOD_ID, "amberblock"),
-            amberBlock);*/
-
-    public static final Block amberBlock = registerBlock("amberblock",
+    public static final Block amberBlock = registerBlock("amber_block",
             new Block(FabricBlockSettings.of(Material.METAL)),
             ItemGroupsMain.lscm);
 

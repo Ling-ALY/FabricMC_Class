@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "lscm:block/amberblock"
+    "all": "lscm:block/amber_block"
   }
 }
