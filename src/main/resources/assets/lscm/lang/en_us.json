@@ -1,10 +1,11 @@
 {
-  "item.lscm.amber" : "Amber",
-  "item.lscm.raw_amber" : "Raw Amber",
+  "item.lscm.zinc_ingot" : "Zinc Ingot",
+  "item.lscm.raw_zinc" : "Raw Zinc",
+  "item.lscm.zinc_nugget" : "Zinc Nugget",
 
-  "block.lscm.amber_block" : "Amber Block",
-  "block.lscm.amber_ore" : "Amber Ore",
-  "block.lscm.deepslate_amber_ore" : "Deepslate Amber Ore",
+  "block.lscm.zinc_block" : "Zinc Block",
+  "block.lscm.zinc_ore" : "Zinc Ore",
+  "block.lscm.deepslate_zinc_ore" : "Deepslate Zinc Ore",
 
   "itemGroup.lscm.lscm" : "lscm"
 }

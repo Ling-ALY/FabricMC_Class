@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "lscm:item/amber"
+    "layer0": "lscm:item/zinc_nugget"
   }
 }

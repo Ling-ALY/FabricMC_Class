@@ -10,6 +10,6 @@ import net.minecraft.util.Identifier;
 public class ItemGroupsMain {
 
     public static final ItemGroup lscm = FabricItemGroupBuilder.build(new Identifier(Main.MOD_ID, "lscm"),
-            () -> new ItemStack(ItemsMain.amber));
+            () -> new ItemStack(ItemsMain.zincIngot));
 
 }

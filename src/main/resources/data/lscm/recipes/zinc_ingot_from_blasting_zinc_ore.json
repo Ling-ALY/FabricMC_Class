@@ -2,9 +2,9 @@
   "type": "minecraft:blasting",
   "cookingtime": 100,
   "experience": 1.0,
-  "group": "amber",
+  "group": "zinc",
   "ingredient": {
-    "item": "lscm:amber_ore"
+    "item": "lscm:zinc_ore"
   },
-  "result": "lscm:amber"
+  "result": "lscm:zinc_ingot"
 }

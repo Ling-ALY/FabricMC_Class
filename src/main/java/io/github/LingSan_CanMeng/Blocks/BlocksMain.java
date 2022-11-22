@@ -13,14 +13,14 @@ import net.minecraft.util.registry.Registry;
 
 public class BlocksMain {
 
-    public static final Block amberBlock = registerBlock("amber_block",
+    public static final Block zincBlock = registerBlock("zinc_block",
             new Block(FabricBlockSettings.of(Material.METAL)),
             ItemGroupsMain.lscm);
-    public static final Block amberOre = registerBlock("amber_ore",
-            new Block(FabricBlockSettings.of(Material.METAL)),
+    public static final Block zincOre = registerBlock("zinc_ore",
+            new Block(FabricBlockSettings.of(Material.STONE)),
             ItemGroupsMain.lscm);
-    public static final Block DeepslateAmberOre = registerBlock("deepslate_amber_ore",
-            new Block(FabricBlockSettings.of(Material.METAL)),
+    public static final Block deepslateZincOre = registerBlock("deepslate_zinc_ore",
+            new Block(FabricBlockSettings.of(Material.STONE)),
             ItemGroupsMain.lscm);
 
     public static Block registerBlock(String blockName,Block block, ItemGroup itemGroup){

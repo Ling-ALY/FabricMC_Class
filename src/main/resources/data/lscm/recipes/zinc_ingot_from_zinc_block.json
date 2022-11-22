@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item":"lscm:amber_block"
+      "item":"lscm:zinc_block"
     }
   ],
   "result": {
-    "item": "lscm:amber",
+    "item": "lscm:zinc_ingot",
     "count": 9
   }
 }

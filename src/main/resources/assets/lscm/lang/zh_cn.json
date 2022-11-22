@@ -1,9 +1,10 @@
 {
-  "item.lscm.amber" : "琥珀",
-  "item.lscm.raw_amber" : "粗琥珀",
+  "item.lscm.zinc_ingot" : "锌锭",
+  "item.lscm.raw_zinc" : "粗锌",
+  "item.lscm.zinc_nugget" : "锌粒",
 
-  "block.lscm.amber_block" : "琥珀块",
-  "block.lscm.amber_ore" : "琥珀矿石",
-  "block.lscm.deepslate_amber_ore" : "深层琥珀矿石",
+  "block.lscm.zinc_block" : "锌块",
+  "block.lscm.zinc_ore" : "锌矿石",
+  "block.lscm.deepslate_zinc_ore" : "深层锌矿石",
   "itemGroup.lscm.lscm": "lscm"
 }

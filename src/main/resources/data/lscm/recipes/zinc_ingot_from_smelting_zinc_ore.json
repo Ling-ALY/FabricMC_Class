@@ -2,9 +2,9 @@
   "type": "minecraft:smelting",
   "cookingtime": 200,
   "experience": 1.0,
-  "group": "amber",
+  "group": "zinc",
   "ingredient": {
-    "item": "lscm:raw_amber"
+    "item": "lscm:zinc_ore"
   },
-  "result": "lscm:amber"
+  "result": "lscm:zinc_ingot"
 }

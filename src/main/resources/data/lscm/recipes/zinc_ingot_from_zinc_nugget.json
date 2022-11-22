@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "lscm:amber"
+      "item": "lscm:zinc_nugget"
     }
   },
   "result": {
-    "item": "lscm:amber_block"
+    "item": "lscm:zinc_ingot"
   }
 }

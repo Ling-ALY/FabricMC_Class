@@ -9,9 +9,11 @@ import net.minecraft.util.registry.Registry;
 
 public class ItemsMain {
 
-    public static final Item amber = registerItem("amber",
+    public static final Item zincIngot = registerItem("zinc_ingot",
             new Item(new FabricItemSettings().group(ItemGroupsMain.lscm)));
-    public static final Item rawAmber = registerItem("raw_amber",
+    public static final Item zincNugget = registerItem("zinc_nugget",
+            new Item(new FabricItemSettings().group(ItemGroupsMain.lscm)));
+    public static final Item rawZinc = registerItem("raw_zinc",
             new Item(new FabricItemSettings().group(ItemGroupsMain.lscm)));
 
     private static Item registerItem(String itemName, Item item){
