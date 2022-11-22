@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "lscm:block/amber_block" }
+  }
+}
