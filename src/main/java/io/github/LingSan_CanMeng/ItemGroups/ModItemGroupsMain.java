@@ -1,7 +1,7 @@
 package io.github.LingSan_CanMeng.ItemGroups;
 
 import io.github.LingSan_CanMeng.Main;
-import io.github.LingSan_CanMeng.items.ModItemsMain;
+import io.github.LingSan_CanMeng.Items.ModItemsMain;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;

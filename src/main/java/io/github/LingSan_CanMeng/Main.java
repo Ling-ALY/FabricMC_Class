@@ -1,8 +1,8 @@
 package io.github.LingSan_CanMeng;
 
 import io.github.LingSan_CanMeng.Blocks.ModBlocksMain;
-import io.github.LingSan_CanMeng.items.ModItemsMain;
-import io.github.LingSan_CanMeng.items.ModItemsFuelRegistry;
+import io.github.LingSan_CanMeng.Items.ModItemsMain;
+import io.github.LingSan_CanMeng.Items.ModItemsFuelRegistry;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

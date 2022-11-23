@@ -1,8 +1,8 @@
-package io.github.LingSan_CanMeng.items;
+package io.github.LingSan_CanMeng.Items;
 
 import io.github.LingSan_CanMeng.ItemGroups.ModItemGroupsMain;
 import io.github.LingSan_CanMeng.Main;
-import io.github.LingSan_CanMeng.items.advanced.Gobber2FooItem;
+import io.github.LingSan_CanMeng.Items.advanced.Gobber2FooItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;

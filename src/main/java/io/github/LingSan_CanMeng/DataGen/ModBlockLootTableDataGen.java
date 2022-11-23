@@ -2,7 +2,7 @@ package io.github.LingSan_CanMeng.DataGen;
 
 import io.github.LingSan_CanMeng.Blocks.ModBlocksMain;
 import io.github.LingSan_CanMeng.Main;
-import io.github.LingSan_CanMeng.items.ModItemsMain;
+import io.github.LingSan_CanMeng.Items.ModItemsMain;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 import net.fabricmc.fabric.api.datagen.v1.provider.SimpleFabricLootTableProvider;
 import net.minecraft.data.server.BlockLootTableGenerator;

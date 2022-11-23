@@ -1,4 +1,4 @@
-package io.github.LingSan_CanMeng.items;
+package io.github.LingSan_CanMeng.Items;
 
 import net.fabricmc.fabric.api.registry.FuelRegistry;
 
