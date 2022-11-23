@@ -19,6 +19,9 @@
   "entrypoints": {
     "main": [
       "io.github.LingSan_CanMeng.Main"
+    ],
+    "fabric-datagen": [
+      "io.github.LingSan_CanMeng.DataGenMain"
     ]
   },
   "mixins": [

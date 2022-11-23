@@ -1,7 +1,7 @@
 package io.github.LingSan_CanMeng;
 
-import io.github.LingSan_CanMeng.Blocks.BlocksMain;
-import io.github.LingSan_CanMeng.items.ItemsMain;
+import io.github.LingSan_CanMeng.Blocks.ModBlocksMain;
+import io.github.LingSan_CanMeng.items.ModItemsMain;
 import io.github.LingSan_CanMeng.items.ModItemsFuelRegistry;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -15,8 +15,8 @@ public class Main implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ItemsMain.registerItems();
-		BlocksMain.registerBlocks();
+		ModItemsMain.registerItems();
+		ModBlocksMain.registerBlocks();
 		ModItemsFuelRegistry.registerFuel();
 	}
 }

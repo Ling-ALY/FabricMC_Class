@@ -5,7 +5,7 @@ import net.fabricmc.fabric.api.registry.FuelRegistry;
 public class ModItemsFuelRegistry {
 
     public static void registerFuel(){
-        FuelRegistry.INSTANCE.add(ItemsMain.gobber2Foo, 64000);
+        FuelRegistry.INSTANCE.add(ModItemsMain.gobber2Foo, 64000);
     }
 
 }
